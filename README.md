@@ -17,7 +17,7 @@ We build delightful blockchain applications
 
 ## Technology
 
-We create beautiful, high quality and delightful web applications using decentralized technologies. We utilize best-of-breed technologies to provide the best experience possible. Ethereum is currently the most mature blockchain platform, so we have focused our efforts on building amazing Ethereum apps.  Looking to the future, we will progress into multi-blockchain systems as tools such as Polkadot and Cosmos mature.
+We create high quality and delightful web applications using decentralized technologies. We constantly evolve our development process so that we're using the best tools, techniques, and standards. Ethereum is currently the most mature blockchain platform, so we have focused our efforts on building amazing Ethereum apps.  Looking to the future, we will progress into multi-blockchain systems as tools such as Polkadot and Cosmos mature.
 
 ## Values
 
